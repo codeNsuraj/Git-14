@@ -5,6 +5,8 @@ public class C1 {
 		
 		System.out.println("G");
 		
+		System.out.println("A");
+		
 		
 	}
 
